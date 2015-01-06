@@ -1,0 +1,2 @@
+#ingore all sqlite databases
+db/* .sqlite3
